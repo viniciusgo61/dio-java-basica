@@ -1,5 +1,5 @@
 /*
- * Descrição
+* Descrição
 Neste desafio, receba um número inteiro N,
 calcule e imprima o somatório de todos os números de N até 0.   
 
@@ -20,6 +20,7 @@ EXEMPLO DE SAÍDA
  */
 
 
+package desafiosdio;
 import java.util.*;
 
 public class Recursiva {
